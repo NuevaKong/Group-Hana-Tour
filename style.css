@@ -240,15 +240,15 @@ li>a:hover{
     padding: 1rem;
 }
 
-/* 
-footer css start */
 
-.footer-1{
+/* footer css start */
+
+/* .footer-1{
   position: absolute;
   bottom:0 ;
   background-color: white;
   width: 100%;
-}
+} */
 
 .ul-su{
   display: flex;
